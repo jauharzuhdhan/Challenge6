@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="app_name" translatable="false">Movie Listing</string>-->
+<!--    <string name="prompt_username">Input Username</string>-->
+<!--    <string name="prompt_email">Input Email</string>-->
+<!--    <string name="prompt_password">Input Password</string>-->
+<!--    <string name="prompt_confirm_password">Confirm Password</string>-->
+<!--    <string name="action_sign_in">Sign in or register</string>-->
+<!--    <string name="action_sign_in_short" translatable="false">Sign in</string>-->
+<!--    <string name="invalid_username" translatable="false">Not a valid username</string>-->
+<!--    <string name="invalid_password">Password must be more than 5 characters</string>-->
+<!--    <string name="login_failed">"Login failed"</string>-->
+<!--    <string name="hello_blank_fragment">Hello blank fragment</string>-->
+<!--    <string name="login">Login</string>-->
+<!--    <string name="register">Register</string>-->
+<!--    <string name="save">Save</string>-->
+<!--    <string name="dont_have_account">Don\'t have account?</string>-->
+<!--    <string name="popular_movies">Popular Movies</string>-->
+<!--    <string name="label_description">Description</string>-->
+<!--    <string name="welcome_home">Welcome, Username</string>-->
+<!--    <string name="profile">Profile</string>-->
+<!--    <string name="prompt_full_name">Input Full Name</string>-->
+<!--    <string name="update">Update</string>-->
+<!--    <string name="logout">Log Out</string>-->
+<!--    <string name="prompt_address">Input Address</string>-->
+    <string name="app_name">Movie Listing</string>
+    <string name="prompt_username">Masukkan Nama</string>
+    <string name="prompt_email">Masukkan Email</string>
+    <string name="prompt_password">Masukkan Password</string>
+    <string name="prompt_confirm_password">Konfirmasi Password</string>
+    <string name="action_sign_in" translatable="false">Login atau Daftar</string>
+    <string name="action_sign_in_short" translatable="false">Login</string>
+    <string name="invalid_username">Nama Salah</string>
+    <string name="invalid_password">Password minimal 5 karakter</string>
+    <string name="login_failed">"Login gagal"</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Daftar</string>
+    <string name="save">Simpan</string>
+    <string name="dont_have_account">Belum Punya Akun?</string>
+    <string name="popular_movies">Film Populer</string>
+    <string name="lorem_ipsum" translatable="false">Lorem ipsum dolor sit amet odio dicunt repudiandae repudiandae eos mauris corrumpit impedit donec iusto dicta vitae usu te per vitae mauris dicunt</string>
+    <string name="label_description">Deskripsi</string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="profile">Profil</string>
+    <string name="prompt_full_name">Masukkan Nama Lengkap</string>
+    <string name="update">Ubah</string>
+    <string name="logout">Keluar</string>
+    <string name="prompt_address">Masukkan Alamat</string>
+</resources>
